@@ -13,6 +13,7 @@ Encapsular significa esconder a implementação dos objetos, criando assim inter
 
 Herança
 Permite que você defina uma classe filha que reutiliza (herda), estende ou modifica o comportamento de uma classe pai. A classe cujos membros são herdados é chamada de classe base. A classe que herda os membros da classe base é chamada de classe derivada.
+
 EX: aquilo que só o pai sabe é **Private**, e oque ele contou só para a familia é **Protected**, e oque os vizinhos sabem é **Public**.
 
 Polimorfismo
