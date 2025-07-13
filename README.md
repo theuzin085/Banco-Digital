@@ -1,5 +1,5 @@
 # Banco-Digital
-*Desafio BootCamp java 2025 com POO.*
+*Desafio BootCamp java 2025.*
 
 **Com base nos 4 pilares da programação orienta a objeto.**
 
