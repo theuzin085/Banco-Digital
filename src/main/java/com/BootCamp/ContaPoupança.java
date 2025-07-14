@@ -1,4 +1,6 @@
 package com.BootCamp;
 
-public class contaPoupança {
+public class ContaPoupança extends Conta{
+
+
 }

@@ -1,4 +1,8 @@
 package com.BootCamp;
 
-public class contaCorrente {
+public class ContaCorrente extends Conta {
+
+
+
+
 }
